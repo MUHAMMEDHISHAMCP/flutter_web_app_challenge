@@ -96,15 +96,6 @@ Page Transition and Animation
 Smooth page transitions and animations to enhance user experience
 
 
-
-Design:
-
-The user interface of the Expense Tracker App is designed to be intuitive and user-friendly
-
-
-
-
-
 Submission:
 
 The complete source code is available in this public GitHub repository. Follow the instructions in this README to set up and run the project. The project is well-structured and follows best practices in Flutter development.
