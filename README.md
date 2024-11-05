@@ -30,7 +30,7 @@ Dart SDK: Included with Flutter
 Installation
 
 Clone the repository:
-git clone https://github.com/MUHAMMEDHISHAMCP/flutter_challenge.git
+git clone https://github.com/MUHAMMEDHISHAMCP/flutter_web_app_challenge.git
 
 cd flutter_web_app_task
 
@@ -45,15 +45,15 @@ Project Structure:
 
 > lib/bloc: State management, listeners, and data loading.
 
-> lib/utils: Helper code, constants, extensions.
-
 > lib/models: Data models.
 
 > lib/screens: All screens, views, and modals.
 
-> lib/widgets: All UI components.
-
 > lib/services: API services.
+
+> lib/utils: Helper code, constants, extensions.
+
+> lib/widgets: All UI components.
 
 > lib/main.dart: Application entry point.
 
